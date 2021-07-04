@@ -5,13 +5,3 @@ class Test {
 		System.out.println("Hello World wel");
 	}
 }
-
-
-
-git clone
-
-git status
-git add
-git commit
-git merge
-git branch -d abc
